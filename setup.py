@@ -2,11 +2,11 @@ from setuptools import find_packages, setup
 
 setup(
     name='netbox_otp_plugin',
-    version='1.3.2',
+    version='1.3.3',
     description='OTP Login NetBox plugin',
-    url='https://github.com/k1nky/netbox-otp-plugin',
-    author='Andrey Shalashov',
-    author_email='avshalashov@yandex.ru',
+    url='https://github.com/opendast/netbox-otp-plugin',
+    author='Dariusz Stojek',
+    author_email='opendast@gmail.com',
     long_description_content_type='text/markdown',
     license='Apache 2.0',
     keywords='netbox otp login plugin',
